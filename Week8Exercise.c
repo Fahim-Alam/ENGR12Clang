@@ -3,7 +3,6 @@
 
 int main()
 {
-    printf("I, Fahim Alam, certify that I have completed this assingment in an honest manner.\n");
 
     // DECLARING VARIABLES
     int orderAgain = 1;   // 1 = true; 0 = false
