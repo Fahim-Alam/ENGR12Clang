@@ -2,8 +2,6 @@
 
 int main()
 {
-    printf("I, Fahim Alam, certify that I have completed this assingment in an honest manner.\n");
-    printf("Fahim Alam\n");
 
     // PRINTING PARAGRAPHS
     printf("The first \\n puts the text on a new line, the double slash by the n is needed to allow the printing of the \\n on this printout.\n\n");
